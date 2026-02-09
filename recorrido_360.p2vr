@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="17983" version="6.1.9">
+<pano2vrconfig version="6.1.9" rev="17983">
   <tour>
     <start>node1</start>
     <panorama>
@@ -2055,7 +2055,9 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-06T22:16:17</capturedatetime>
-        <tags>Downloads</tags>
+        <tags>Entrada_Presidencia</tags>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2240,7 +2242,9 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-06T22:20:43</capturedatetime>
-        <tags>Downloads</tags>
+        <tags>Presidencia</tags>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2455,7 +2459,9 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-06T18:52:14</capturedatetime>
-        <tags>Downloads</tags>
+        <tags>Salon_de_actos</tags>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2670,7 +2676,9 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-06T22:19:08</capturedatetime>
-        <tags>Downloads</tags>
+        <tags>Segundo_quiosco</tags>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2869,7 +2877,9 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-06T22:09:54</capturedatetime>
-        <tags>Downloads</tags>
+        <tags>Iglesia</tags>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3045,7 +3055,9 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2026-02-06T18:49:59</capturedatetime>
-        <tags>Downloads</tags>
+        <tags>Callejon</tags>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
