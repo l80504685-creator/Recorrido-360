@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17983" appversion="6.1.9" start="node1">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="5.97018" pan="71.377" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Quiosco_principal" nodeid="node1" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node9}" title="" description="" target="" tilt="-13.64" pan="-262.17" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="Inicio" description="Estás dentro del quiosco de la plaza central donde puedes apreciar una vista panorámica agradable de 360 a tu alrededor, disfrútala !!" target="" tilt="-12.73" pan="-270.79" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="-3.000" width="192" tilt="-70.020" height="192" pan="-281.250" stretch="1.000" fov="58.022" rotz="6.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida inicial.png"/>
+      </image>
+      <image handcursor="0" id="Element04" rotx="0.000" width="1920" tilt="-14.790" height="1920" pan="-352.620" stretch="1.000" fov="8.824" rotz="2.000" roty="-7.000" clickmode="0">
+        <source url="media/correlatestudio-squirrel-4187961_1920 (1).png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-12.430" pan="-6.510" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tunetank-modern-country-rock-349719.mp3"/>
+      </sound>
+      <sound pansize="10.000" id="Element03" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-18.890" pan="-189.930" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/hitslab-country-texas-background-music-365199.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.22651" pan="65.3675" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Frente_quiosco" nodeid="node9" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node8}" title="" description="" target="" tilt="-10.85" pan="-244.3" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="Hola !!" description="Este es el maravilloso quiosco de la plaza central del Pueblo mágico de Casas Grandes  :)" target="" tilt="11.53" pan="-269.19" skinid="ht_info"/>
+      <hotspot id="Point03" url="" title="Caminando.." description="Sigue adelantee" target="" tilt="-14.29" pan="-2.58" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-80.260" height="192" pan="-6.480" stretch="1.000" fov="46.319" rotz="-56.000" roty="-11.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-8.960" height="1086" pan="-309.110" stretch="1.000" fov="23.190" rotz="0.000" roty="2.000" clickmode="0">
+        <source url="media/geralt-park-bench-9129958_1920 (1).png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="5.060" pan="-229.430" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/businessstar-the-soul-of-country-241489.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-8.15684" pan="93.7647" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Esquina1" nodeid="node8" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node7}" title="" description="" target="" tilt="-15.67" pan="-277.02" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="Aviso" description="Más adelante encontrarás una escultura interesante" target="" tilt="-2.13" pan="-320.87" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-86.020" height="192" pan="-285.690" stretch="1.000" fov="46.319" rotz="-17.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element02" rotx="0.000" width="1536" tilt="-7.190" height="1920" pan="-255.220" stretch="1.000" fov="9.202" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/baypicz-flower-5390711_1920 (1).png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1536" tilt="-2.830" height="1920" pan="-284.500" stretch="1.000" fov="10.903" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/baypicz-flower-5390711_1920 (1).png"/>
+      </image>
+      <image handcursor="0" id="Element04" rotx="-22.000" width="1536" tilt="-16.470" height="1920" pan="-34.890" stretch="1.000" fov="11.471" rotz="0.000" roty="-20.000" clickmode="0">
+        <source url="media/baypicz-flower-5390711_1920 (1).png"/>
+      </image>
+      <image handcursor="0" id="Element05" rotx="-15.000" width="1536" tilt="-17.870" height="1920" pan="-16.700" stretch="1.000" fov="15.252" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/baypicz-flower-5390711_1920 (1).png"/>
+      </image>
+      <image handcursor="0" id="Element06" rotx="-14.000" width="1536" tilt="-17.430" height="1920" pan="-183.000" stretch="1.000" fov="12.605" rotz="0.000" roty="-10.000" clickmode="0">
+        <source url="media/baypicz-flower-5390711_1920 (1).png"/>
+      </image>
+      <image handcursor="0" id="Element07" rotx="0.000" width="1536" tilt="-3.740" height="1920" pan="-209.870" stretch="1.000" fov="8.634" rotz="0.000" roty="-11.000" clickmode="0">
+        <source url="media/baypicz-flower-5390711_1920 (1).png"/>
+      </image>
+      <sound pansize="10.000" id="Element08" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-7.530" pan="-283.620" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tunetank-country-western-texas-background-music-348415.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-14.2921" pan="74.8774" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Lado1" nodeid="node7" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node6}" title="" description="" target="" tilt="-11.52" pan="-333.94" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Aquí podemos ver la escultura que honra a José Inés Salazar Márquez, un militar originario de la región que destacó por su participación en la Revolución Mexicana, inicialmente en el bando maderista y posteriormente como una figura relevante del orozquismo." target="" tilt="-21.99" pan="-273.29" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-85.110" height="192" pan="-224.420" stretch="1.000" fov="56.044" rotz="98.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-25.560" height="1920" pan="-271.380" stretch="1.000" fov="23.193" rotz="1.000" roty="0.000" clickmode="0">
+        <source url="media/cindynhiart-leaves-5635707_1920.jpg"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-11.300" pan="-237.930" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tunetank-modern-country-rock-349719.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-18.1218" pan="20.9472" fov="94.8019" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Esquina2" nodeid="node6" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node5}" title="" description="" target="" tilt="-33.63" pan="-77.63" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Lo que ves es la Presidencia Municipal de Casas Grandes" target="" tilt="10.41" pan="-203.56" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-82.110" height="192" pan="-214.420" stretch="1.000" fov="50.769" rotz="120.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="-7.000" width="1920" tilt="-13.820" height="1280" pan="-61.510" stretch="1.000" fov="24.895" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/evamichalkova-ai-generated-8328702_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-8.220" pan="-688.200" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tatamusic-country-western-texas-background-music-394850.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-26.4489" pan="-171.381" fov="94.8019" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Lado2" nodeid="node5" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node4}" title="" description="" target="" tilt="-5.63" pan="-244.32" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Espero que estés disfrutando éste recorrido" target="" tilt="-20.14" pan="-183.52" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-78.700" height="192" pan="-171.190" stretch="1.000" fov="60.989" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-11.130" height="1280" pan="-217.050" stretch="1.000" fov="21.492" rotz="-3.000" roty="0.000" clickmode="0">
+        <source url="media/brandwayart-ai-generated-8661502_1920.jpg"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-17.950" pan="-181.680" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/daynigthmorning-country-logo-no-copyright-music-430986.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.660019" pan="105.031" fov="94.8019" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Esquina3" nodeid="node4" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node10}" title="" description="" target="" tilt="-6.35" pan="-263.5" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Probablemente ya conozcas la plaza pero aunque sea chiquita tiene un gran significado para muchas personas" target="" tilt="-12.72" pan="-217.63" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-85.130" height="192" pan="-262.810" stretch="1.000" fov="69.396" rotz="-5.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="799" tilt="-14.240" height="1280" pan="-321.970" stretch="1.000" fov="6.555" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/sunriseforever-flower-5509151_1280.png"/>
+      </image>
+      <image handcursor="0" id="Element04" rotx="0.000" width="799" tilt="-19.510" height="1280" pan="-331.260" stretch="1.000" fov="8.256" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/sunriseforever-flower-5509151_1280.png"/>
+      </image>
+      <image handcursor="0" id="Element05" rotx="0.000" width="799" tilt="-16.370" height="1280" pan="-343.210" stretch="1.000" fov="8.634" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/sunriseforever-flower-5509151_1280.png"/>
+      </image>
+      <image handcursor="0" id="Element06" rotx="0.000" width="799" tilt="-17.400" height="1280" pan="-171.680" stretch="1.000" fov="7.500" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/sunriseforever-flower-5509151_1280.png"/>
+      </image>
+      <image handcursor="0" id="Element07" rotx="0.000" width="799" tilt="-16.190" height="1280" pan="-186.190" stretch="1.000" fov="7.311" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/sunriseforever-flower-5509151_1280.png"/>
+      </image>
+      <image handcursor="0" id="Element08" rotx="0.000" width="799" tilt="-19.090" height="1280" pan="-181.340" stretch="1.000" fov="9.769" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/sunriseforever-flower-5509151_1280.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-8.120" pan="-232.820" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/original_soundtrack-western-country-texas-background-music-471922.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Lado3" nodeid="node10" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node2}" title="" description="" target="" tilt="-0.28" pan="-310.34" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Excelente lugar para pasar un momento agradable con tus amigos o familiares y divertirse" target="" tilt="-27.23" pan="-26.47" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="340" tilt="-87.300" height="288" pan="-15.270" stretch="1.000" fov="74.580" rotz="55.000" roty="0.000" clickmode="0">
+        <source url="media/images.jpg"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1630" tilt="-3.060" height="1920" pan="-319.860" stretch="1.000" fov="14.685" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/ylanite_nietjuhart-bird-8416208_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-25.610" pan="-351.170" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tatamusic-country-western-texas-background-music-394850.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-12.4816" pan="-8.19196" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Esquina4" nodeid="node2" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node14}" title="" description="" target="" tilt="-27.78" pan="-340.12" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Vive la vida al máximo  y disfruta de cada pequeño detalle " target="" tilt="-19.99" pan="-36.43" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="-8.000" width="192" tilt="-87.760" height="192" pan="-203.410" stretch="1.000" fov="62.802" rotz="151.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="-12.000" width="1281" tilt="-7.270" height="1920" pan="-6.750" stretch="1.000" fov="30.000" rotz="4.000" roty="9.000" clickmode="0">
+        <source url="media/sanctumdigital-sign-post-5655110_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-6.450" pan="-335.910" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/mfcc-country-country-texas-cowboy-music-322875.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.16684" pan="-33.4217" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Downloads" nodeid="node14" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node12}" title="" description="" target="" tilt="-8.8" pan="-358.61" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="¿Cómo te encuentras?" description="Explora más acerca de éste bello lugar.... Entrada a la Presidencia Municipal" target="_blank" tilt="-10.01" pan="-73.67" skinid="ht_url"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-87.470" height="192" pan="-307.360" stretch="1.000" fov="58.681" rotz="85.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="-25.000" width="1920" tilt="-34.200" height="1471" pan="-35.130" stretch="1.000" fov="31.513" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/22763505-animal-6618188_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-11.290" pan="-359.160" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tatamusic-country-western-texas-background-music-394850.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.42033" pan="-78.4864" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Downloads" nodeid="node12" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node16}" title="" description="" target="" tilt="-16.74" pan="-85.33" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Aqui en la Pesidencia Municipal se pueden realizar trámites legales" target="" tilt="-3.43" pan="-9.99" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="-7.000" width="192" tilt="-85.310" height="192" pan="-227.520" stretch="1.000" fov="62.802" rotz="180.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-41.370" height="1920" pan="-45.930" stretch="1.000" fov="24.832" rotz="5.000" roty="-7.000" clickmode="0">
+        <source url="media/biancavandijk-bird-7993566_1920.png"/>
+      </image>
+      <image handcursor="0" id="Element04" rotx="0.000" width="1920" tilt="-13.760" height="1355" pan="-342.220" stretch="1.000" fov="30.000" rotz="3.000" roty="14.000" clickmode="0">
+        <source url="media/tumisu-vote-4746510_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-9.260" pan="-327.960" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/original_soundtrack-western-country-texas-background-music-471922.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-3.60628" pan="81.214" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Downloads" nodeid="node16" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node13}" title="" description="" target="" tilt="-17.27" pan="-32.92" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Bienvenido al Salón de Actos" target="" tilt="-16.5" pan="-302.58" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-79.380" height="192" pan="-228.110" stretch="1.000" fov="59.505" rotz="18.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-18.620" height="1080" pan="-197.830" stretch="1.000" fov="30.000" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/chiajo-gavel-7104147_1920.png"/>
+      </image>
+      <image handcursor="0" id="Element04" rotx="-17.000" width="1920" tilt="-23.440" height="1861" pan="-16.390" stretch="1.000" fov="21.802" rotz="0.000" roty="-8.000" clickmode="0">
+        <source url="media/openclipart-vectors-scales-147219_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-20.920" pan="-272.260" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/lkoliks-country-western-texas-background-music-381480.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="2.07382" pan="36.0786" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Downloads" nodeid="node13" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node15}" title="" description="" target="" tilt="0.57" pan="-179.37" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Estás visitando la segunda plaza de Casas Grandes" target="" tilt="-15.61" pan="-23.43" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="-3.000" width="192" tilt="-85.100" height="192" pan="-324.800" stretch="1.000" fov="63.462" rotz="-3.000" roty="-3.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="-29.000" width="1920" tilt="-35.540" height="1920" pan="-270.700" stretch="1.000" fov="30.000" rotz="-11.000" roty="-15.000" clickmode="0">
+        <source url="media/madebytin-cactus-8251095_1920.jpg"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-7.980" pan="-262.150" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tunetank-country-background-music-347566.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="10.5584" pan="58.9766" fov="93.7895" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Downloads" nodeid="node15" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node11}" title="" description="" target="" tilt="-3.61" pan="-105.78" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Te ubicas dentro de la Iglesia San Antonio de Padua de Casas Grandes" target="" tilt="-26.09" pan="-20.89" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="-17.000" width="192" tilt="-88.160" height="192" pan="-147.420" stretch="1.000" fov="42.857" rotz="-180.000" roty="0.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-31.560" height="1280" pan="-334.880" stretch="1.000" fov="30.000" rotz="0.000" roty="6.000" clickmode="0">
+        <source url="media/geralt-satisfaction-7196038_1920.jpg"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-23.610" pan="-250.110" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tunetank-country-rock-349183.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="380" height="380" levelingroll="0" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="Downloads" nodeid="node11" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" textalpha="1" width="180" height="20" backgroundalpha="1" bordercolor="0x000000" enabled="1" borderalpha="1" border="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" url="{node1}" title="" description="" target="" tilt="-6" pan="-111.34" skinid="ht_node"/>
+      <hotspot id="Point02" url="" title="" description="Ahora estás en el &quot;Callejón del Amor&quot;, un lugar excelente para las parejas y la familia" target="" tilt="-10.4" pan="-140.9" skinid="ht_info"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" id="Element01" rotx="0.000" width="192" tilt="-78.660" height="192" pan="-62.720" stretch="1.000" fov="48.626" rotz="-66.000" roty="-13.000" clickmode="0">
+        <source url="media/punto partida.png"/>
+      </image>
+      <image handcursor="0" id="Element03" rotx="0.000" width="1920" tilt="-4.480" height="1920" pan="-95.040" stretch="1.000" fov="16.806" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/haninabz-woman-8439000_1920.png"/>
+      </image>
+      <image handcursor="0" id="Element04" rotx="-18.000" width="1920" tilt="-3.260" height="1920" pan="-266.430" stretch="1.000" fov="31.885" rotz="0.000" roty="0.000" clickmode="0">
+        <source url="media/pepitasandpepitas-letter-8853380_1920.png"/>
+      </image>
+      <image handcursor="0" id="Element05" rotx="0.000" width="1205" tilt="-3.440" height="1920" pan="-395.340" stretch="1.000" fov="18.691" rotz="4.000" roty="46.000" clickmode="0">
+        <source url="media/scigola-poster-2690541_1920.png"/>
+      </image>
+      <sound pansize="10.000" id="Element02" startmutedmobile="0" ambientlevel="0.000" mode="3" tilt="-14.470" pan="-74.100" level="1.000" tiltsize="10.000" field="90.000" nodechangekeep="0" loop="1">
+        <source url="media/tunetank-country-western-texas-background-music-348224.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" author="" copyright="" source="" customnodeid="" tags="" nodeid="master" heading="0" longitude="" info="" datetime="" latitude="" comment=""/>
+  </masternode>
+</tour>
